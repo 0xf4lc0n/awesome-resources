@@ -3,7 +3,6 @@
 ## API Hooking
 https://malwaretips.com/threads/how-do-antivirus-know-which-program-called-which-api-from-the-kernel-space.92402/
 
-
 ## Malware Dev
 https://cocomelonc.github.io/
 
@@ -13,3 +12,8 @@ https://malwaretips.com/threads/how-do-antivirus-know-which-program-called-which
 
 ### Evasion
 https://breakdev.org/defeating-antivirus-real-time-protection-from-the-inside/
+
+## RE
+
+### Assembly
+https://tufan-gungor.github.io/posts/x86-calling-conventions/
